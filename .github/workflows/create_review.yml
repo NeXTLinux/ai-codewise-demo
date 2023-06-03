@@ -19,4 +19,4 @@ jobs:
             api.github.com:443
 
       - name: Code Review
-        uses: nextlinux/ai-codewise@v1
+        uses: nextlinux/ai-codewise@v1.0.0
